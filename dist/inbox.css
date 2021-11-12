@@ -1,0 +1,36 @@
+.inbox {
+  background-color: black; }
+
+.word {
+  color: antiquewhite;
+  position: absolute;
+  top: 10px;
+  left: 100px; }
+
+.setting {
+  position: absolute;
+  top: 10px;
+  left: 800px; }
+
+.setting:hover {
+  cursor: pointer; }
+
+.select {
+  position: absolute;
+  top: 110px;
+  left: 200px; }
+
+.select > a {
+  text-decoration: none;
+  color: rgba(165, 187, 190, 0.897); }
+
+.select > a:hover {
+  cursor: pointer;
+  color: antiquewhite;
+  text-decoration: underline; }
+
+.mentions {
+  position: relative;
+  left: 100px; }
+
+/*# sourceMappingURL=inbox.css.map */
