@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,SAAS;EACL,gBAAgB,EAAE,KAAK;;AAE3B,aAAW;EACP,KAAK,EAAC,YAAY",
-"sources": ["../sass/metions.scss"],
-"names": [],
-"file": "metions.css"
-}
